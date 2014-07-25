@@ -4,7 +4,7 @@ open vim scripts
 
 use step:
 
-1.    git clone https://github.com/openproject/openvims.git .vim
+1.    git clone git@github.com:hongling0/openvims.git .vim
 
 2.    cd .vim
 
