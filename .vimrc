@@ -14,7 +14,7 @@ set tabstop=4
 set hlsearch
 set incsearch
 set shiftwidth=4
-set autoindent
+" set autoindent
 set expandtab
 set mouse=a
 
