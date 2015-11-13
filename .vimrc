@@ -14,7 +14,7 @@ set tabstop=4
 set hlsearch
 set incsearch
 set shiftwidth=4
-" set autoindent
+set autoindent
 set expandtab
 set mouse=a
 
@@ -24,7 +24,7 @@ colorscheme solarized
 
 " tags settting
 set tags=tags;
-set autochdir
+" set autochdir
 
 let NERDTreeChristmasTree=1
 let NERDTreeMouseMode=2
